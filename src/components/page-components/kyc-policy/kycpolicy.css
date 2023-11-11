@@ -1,0 +1,9 @@
+.kyc-head {
+  background: linear-gradient(180deg, #000000, #000000, 80%, #000000);
+}
+.kyc-head .top-section__title {
+  color: rgb(255, 255, 255);
+}
+/* .content .kyc-text p{
+  color: aliceblue;
+} */

@@ -1,0 +1,51 @@
+.top-section__title{
+    color: aliceblue;
+}
+
+.steps__left{
+    color: black;
+}
+.content .steps__right{
+    color: black;
+}
+
+.info__item .item__in .social{
+background-color: rgb(39, 28, 162);
+color: black;
+}
+
+.page--quick-start .top-section{
+    background-image: url('/public/images/bg/pxfuel.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+  }
+  
+
+
+  .top-section__content  .btn_blue-gradient{
+    color: aliceblue;
+  }
+  .item__in  .btn_blue-gradient{
+    color: aliceblue;
+  }
+  .item__in  .btn_blue-gradient:hover{
+    color: aliceblue;
+  }
+
+  .accordion-header {
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid #000; /* Adjust the border style as needed */
+    border-radius: 5px; /* Add rounded corners if desired */
+    padding: 10px; /* Add padding for better visual spacing */
+    margin-top: 5px;
+    background-color: rgb(70 13 69);
+  }
+  .accordion-collapse  {
+background-color: #e7e8f2;
+  }
+
+  .quick_breadcrumbs{
+    margin-top: 25px;
+  }
+

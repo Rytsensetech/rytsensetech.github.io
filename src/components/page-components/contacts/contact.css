@@ -1,0 +1,41 @@
+.g-recaptcha {
+  transform: scale(1);
+  transform-origin: 0 0 !important;
+  display: none;
+  margin: 0 20%;
+}
+
+.animate-rotate {
+  animation: capchaRotate linear 1s infinite;
+  transform-origin: center;
+}
+
+@keyframes capchaRotate {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.g-recaptcha {
+  display: block;
+}
+
+.contacts-form__left {
+  color: black;
+}
+
+.contacts__list {
+  color: black;
+}
+.contacts-form__wrap {
+  background-color: rgb(165, 168, 169);
+  padding: 15px;
+  border-radius: 15px;
+}
+.page--contacts .top-section {
+  background-image: url("/public/images/bg/contacts-bg.jpg ");
+  background-size: cover; /* Adjust as needed */
+  background-position: center; /* Adjust as needed */
+}
